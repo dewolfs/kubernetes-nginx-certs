@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3ubjXVNLvLhODgQqMXSC9ugONHd6RHZMT3k0VvYFf/ykeqoKeWpMXqhH20wHB+X1FBq7cSuIftZJDo4H/7SKxw==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\dotnetcore-prometheus\\thebank\\thebank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\home\\.nuget\\packages\\prometheus-net\\4.0.0-pre-000134-2fea549\\prometheus-net.4.0.0-pre-000134-2fea549.nupkg.sha512",
+    "C:\\Users\\home\\.nuget\\packages\\prometheus-net.aspnetcore\\4.0.0-pre-000134-2fea549\\prometheus-net.aspnetcore.4.0.0-pre-000134-2fea549.nupkg.sha512"
+  ],
+  "logs": []
+}
